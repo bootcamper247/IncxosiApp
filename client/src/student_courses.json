@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "name": "React",
+      "progress": 60
+    },
+    {
+        "id": 2,
+        "name": "Java",
+        "progress": 30
+      },
+      {
+        "id": 3,
+        "name": "Angular",
+        "progress": 30
+      }
+]
+  

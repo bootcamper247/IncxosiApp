@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "name": "React",
+      "activeStudents": 4
+    },
+    {
+        "id": 2,
+        "name": "Java",
+        "activeStudents": 10
+      },
+      {
+        "id": 3,
+        "name": "Angular",
+        "activeStudents": 10
+      }
+]
+  
