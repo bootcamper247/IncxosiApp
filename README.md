@@ -3,7 +3,8 @@ A one to one teaching app for those who want to share their skills
 
 ## https://shielded-ocean-20079.herokuapp.com/
 
-### Welcome to Incxosi a lightweight, 1 to 1 teaching/training/coaching platform for those who like to help others.
+### MongoDB - Database / NodeJS - Server-Side Code / React - View / Express - Server Routing and Managment / Mongoose - MongoDB ORM / Passport - User Auth and Login / 
+
 Have you ever wanted to help a friend with something that came natural to you but seemed to be a challenge for them?
 
 Have you gained life experience, overcome an obstacle, or received training and would like to pass this on?
