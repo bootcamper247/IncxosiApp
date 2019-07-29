@@ -1,7 +1,7 @@
 # IncxosiApp
 A one to one teaching app for those who want to share their skills
 
-## https://shielded-ocean-20079.herokuapp.com/
+## https://incxosi-app.herokuapp.com/
 
 ### MongoDB - Database / NodeJS - Server-Side Code / React - View / Express - Server Routing and Managment / Mongoose - MongoDB ORM / Passport - User Auth and Login / 
 
